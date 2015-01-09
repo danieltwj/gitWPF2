@@ -1,0 +1,1 @@
+C:\Work\Code_Git\Test\WPFTest\WPFTest\bin\Debug\WPFTest.exe.config
