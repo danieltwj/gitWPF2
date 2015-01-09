@@ -1,1 +1,2 @@
 C:\Work\Code_Git\Test\WPFTest\WPFTest\bin\Debug\WPFTest.exe.config
+C:\Work\Code_Git\Test\WPFTest\gitWPF2\WPFTest\bin\Debug\WPFTest.exe.config
